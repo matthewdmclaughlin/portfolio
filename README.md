@@ -6,7 +6,7 @@ Use this template and guide to build your portfolio.
 
 ## Objectives
 
-By the end of this UGH THE END, developers should be able to:
+By the end of this, developers should be able to:
 
 - Have something to show to potential future employers/recruiters/friends
 - Work on a portfolio and implement more and more features throughout SEI
